@@ -11,6 +11,8 @@ ipywidgets = "*"
 numpy = "*"
 pandas = "*"
 sacremoses = "*"
+datasets = "*"
+matplotlib = "*"
 
 [dev-packages]
 ipykernel = "*"
