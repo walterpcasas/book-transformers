@@ -5,7 +5,6 @@ name = "pypi"
 
 [packages]
 torch = "*"
-transformers = "*"
 sentencepiece = "*"
 ipywidgets = "*"
 numpy = "*"
@@ -13,6 +12,9 @@ pandas = "*"
 sacremoses = "*"
 datasets = "*"
 matplotlib = "*"
+umap-learn = "*"
+accelerate = "*"
+transformers = "*"
 
 [dev-packages]
 ipykernel = "*"

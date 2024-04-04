@@ -1,4 +1,4 @@
 .venv/
 *.ipynb_checkpoints/
 .DS_Store
-finetuned-emotion/
+distilbert-base-uncased-finetuned-emotion/
