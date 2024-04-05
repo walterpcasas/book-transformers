@@ -15,6 +15,7 @@ matplotlib = "*"
 umap-learn = "*"
 accelerate = "*"
 transformers = "*"
+bertviz = "*"
 
 [dev-packages]
 ipykernel = "*"
