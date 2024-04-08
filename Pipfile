@@ -16,6 +16,8 @@ umap-learn = "*"
 accelerate = "*"
 transformers = "*"
 bertviz = "*"
+tqdm = "*"
+jupyter = "*"
 
 [dev-packages]
 ipykernel = "*"
