@@ -2,3 +2,6 @@
 *.ipynb_checkpoints/
 .DS_Store
 distilbert-base-uncased-finetuned-emotion/
+venv-transformers/
+
+
