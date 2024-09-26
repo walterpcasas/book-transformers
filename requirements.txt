@@ -1,10 +1,16 @@
+ipykernel
+
 numpy
 pandas
 matplotlib
 seaborn
+
+umap-learn
 
 scikit-learn
 torch
 transformers
 
 sentencepiece
+datasets
+accelerate
